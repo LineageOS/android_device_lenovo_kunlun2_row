@@ -1,0 +1,18 @@
+## All proprietary files from this list, unless pinned and noted otherwise,
+## are from L38111 CN Q ZUI 11.5.117
+
+abl.elf
+aop.mbn
+BTFM.bin:bluetooth.img
+cmnlib64.mbn
+cmnlib.mbn
+devcfg.mbn
+dspso.bin:dsp.img
+hyp.mbn
+keymaster64.mbn:keymaster.img
+NON-HLOS.bin:modem.img
+qupv3fw.elf:qupfw.img
+storsec.mbn
+tz.mbn
+xbl_config.elf
+xbl.elf
